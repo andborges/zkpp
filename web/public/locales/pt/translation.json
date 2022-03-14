@@ -1,0 +1,48 @@
+{
+    "Backend": {
+        "EmailAlreadyRegistered": "Email já cadastrado",
+        "InvalidUsernameOrPassword": "Usuário ou senha inválidos"
+    },
+    "Button": {
+        "Back": "Voltar",
+        "Enter": "Entrar",
+        "Ok": "Ok",
+        "Register": "Cadastrar"
+    },
+    "Common": {
+        "AlreadyHaveAccount": "Já tem uma conta? Clique para entrar",
+        "DontHaveAccount": "Não tem cadastro? Crie uma conta",
+        "ForgotPasswordQuestion": "Esqueceu sua senha?",
+        "Logout": "Sair",
+        "Profile": "Seu perfil",
+        "SignIn": "Entrar",
+        "SignUp": "Criar conta",
+        "Welcome": "Bem vindo"
+    },
+    "Field": {
+        "FirstName": {
+            "Label": "Nome"
+        },
+        "LastName": {
+            "Label": "Sobrenome"
+        },
+        "EmailAddress": {
+            "Label": "Email"
+        },
+        "Password": {
+            "Label": "Senha"
+        },
+        "ConfirmPassword": {
+            "Label": "Confirme a senha"
+        },
+        "WhatsHappening": {
+            "Label": "O que está acontecendo, {{name}}?"
+        }
+    },
+    "Validation": {
+        "Invalid": "Campo inválido",
+        "MinLength": "Campo deve ter {{minLength}} caracteres ou mais",
+        "PasswordNotConfirmed": "Senha não confirmada",
+        "Required": "Campo obrigatório"
+    }
+}

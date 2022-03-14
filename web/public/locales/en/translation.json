@@ -1,0 +1,48 @@
+{
+    "Backend": {
+        "EmailAlreadyRegistered": "Email already registered",
+        "InvalidUsernameOrPassword": "Invalid username or password"
+    },
+    "Button": {
+        "Back": "Back",
+        "Enter": "Sign in",
+        "Ok": "Ok",
+        "Register": "Register"
+    },
+    "Common": {
+        "AlreadyHaveAccount": "Already have an account? Sign in",
+        "DontHaveAccount": "Don't have an account? Sign Up",
+        "ForgotPasswordQuestion": "Forgot password?",
+        "Logout": "Logout",
+        "Profile": "Profile",
+        "SignIn": "Sign in",
+        "SignUp": "Sign up",
+        "Welcome": "Welcome"
+    },
+    "Field": {
+        "FirstName": {
+            "Label": "First name"
+        },
+        "LastName": {
+            "Label": "Last name"
+        },
+        "EmailAddress": {
+            "Label": "Email address"
+        },
+        "Password": {
+            "Label": "Password"
+        },
+        "ConfirmPassword": {
+            "Label": "Confirm password"
+        },
+        "WhatsHappening": {
+            "Label": "What's happening, {{name}}?"
+        }
+    },
+    "Validation": {
+        "Invalid": "Invalid value",
+        "MinLength": "Password must have {{minLength}} or more characters",
+        "PasswordNotConfirmed": "Password not confirmed",
+        "Required": "Field is required"
+    }
+}
